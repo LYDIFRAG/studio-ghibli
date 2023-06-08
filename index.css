@@ -382,3 +382,13 @@ footer{
         font-size: small;         
     }
 }
+@media all and (max-width: 840px) {
+    a.menu{
+        margin:0px;
+        padding:0px;
+        padding-left:5%;
+        display:block;
+        float:none;
+        text-align:left;
+    }
+}
